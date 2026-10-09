@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # VisionTrack — Real-Time Object Detection Platform
 
 A modular object-detection dashboard built with Python, OpenCV, Ultralytics YOLO, Streamlit, and MySQL.
@@ -54,4 +54,3 @@ The app uses parameterized SQL for event inserts and filters. The configured acc
 Choose a license appropriate for your intended use. Review Ultralytics licensing terms before distributing a product built on its software.
 =======
 # Real-Time-Object-Detection-Platform
->>>>>>> cb41ef79f67e8a9dbc49dc4bc52c709de35a87b5
