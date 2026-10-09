@@ -1,0 +1,10 @@
+streamlit>=1.40
+ultralytics>=8.3
+opencv-python-headless>=4.10
+mysql-connector-python>=9.0
+python-dotenv>=1.0
+pillow>=10.0
+pandas>=2.2
+numpy>=1.26
+streamlit-webrtc>=0.47
+av>=12.0
